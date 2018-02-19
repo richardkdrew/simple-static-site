@@ -5,7 +5,7 @@ class App extends React.Component {
   render () {
     return <Router>
       <Switch>
-        <Route exact path='/' render={() => <p>I am simple!</p> } />
+        <Route exact path='/' render={() => <p>I am simple!</p>} />
       </Switch>
     </Router>
   }
