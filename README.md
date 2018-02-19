@@ -1,0 +1,3 @@
+# simple-static-site
+
+A simple static website built in React for testing, pipeline building, using as a sandbox for POC's, etc...
